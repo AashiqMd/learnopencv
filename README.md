@@ -1,13 +1,6 @@
 # LearnOpenCV
 This repo contains code for Computer Vision, Deep learning, and AI articles shared on our blog [LearnOpenCV.com](https://www.LearnOpenCV.com).
 
-Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start.
-
-<a href="https://opencv.org/courses/">
-<p align="center">
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
-</p>
-</a>
 
 ## List of Blog Posts
 
